@@ -1,2 +1,6 @@
-# ipl_batsman_analysis
-This is the script and datasets for analysing and comparing 3 batsmen in IPL (2008 to 2019). If you are a cricket enthusiast, this will give you lots of insights into the weakness of batsmen as well. 
+matplotlib 3.1.1
+numpy 1.17.2
+pandas 0.25.1
+seaborn 0.9.0
+pypdf2 1.26.0
+openpyxl 3.0.0
